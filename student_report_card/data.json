@@ -1,0 +1,13 @@
+4[
+    {
+        "name": "Seyi",
+        "subjects": {
+            "chem": 50.0,
+            "bch": 60.0,
+            "ana": 90.0,
+            "physio": 80.0
+        },
+        "average": 70.0,
+        "grade": "A"
+    }
+]
