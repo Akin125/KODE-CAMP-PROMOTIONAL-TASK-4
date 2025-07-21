@@ -1,4 +1,4 @@
-
+# student.py
 class Student:
     def __init__(self, name, subjects):
         self.name = name
