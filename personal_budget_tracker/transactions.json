@@ -1,0 +1,9 @@
+[
+    {
+        "description": "Food",
+        "amount": 10000.0,
+        "type": "expense",
+        "category": "Feeding",
+        "date": "2025-07-21 18:37:19"
+    }
+]
